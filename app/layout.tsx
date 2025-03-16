@@ -63,7 +63,6 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={workSans.variable}
-        style={{ fontFamily: workSans.variable}}
       >
         {children}
       </body>
